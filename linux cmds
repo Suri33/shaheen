@@ -1,0 +1,29 @@
+cd~
+cd
+cd/
+cd..
+mkdir
+cp
+mv
+touch
+tail
+rmdir
+ls
+ls -a
+ls -al
+vi
+ls ../
+cat
+head
+sudo su
+grep
+find
+sed
+whereis java
+rmdir -rf 
+history
+cntrl l
+man
+--help
+
+mkdir -p 
